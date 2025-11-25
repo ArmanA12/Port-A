@@ -17,7 +17,7 @@ export const HERO_DATA = {
 export const FEATURED_PROJECTS: Project[] = [
   {
     id: "1",
-    title: "Bee2Bee Asia",
+    title: "Bee2Bee Exhibition",
     description: "Independently designed, developed, and deployed a B2B full-stack web application to handle large-scale exhibitions, including the website, Exhibitor, Buyer, and Admin Dashboards. The project involved configuration, deployment, integration of payment gateway, and successful hosting on AWS.",
     tags: ["React", "Next.js", "Typescript", "Prisma", "Supabase", "AWS"],
     image: "https://picsum.photos/800/600?random=1",
@@ -27,7 +27,7 @@ export const FEATURED_PROJECTS: Project[] = [
   },
   {
     id: "2",
-    title: "AIFTP Online",
+    title: "Tax Pertion Online",
     description: "Migrated a legacy WordPress + PHP website to a modern Next.js + Prisma full-stack app with MySQL and AWS Lightsail. Integrated PayU payment gateway and CI/CD pipelines. Resulted in a 40% increase in user retention.",
     tags: ["React", "Next", "Javascript", "Typescript", "Prisma", "Framer Motion", "AWS"],
     image: "https://picsum.photos/800/600?random=2",
@@ -37,7 +37,7 @@ export const FEATURED_PROJECTS: Project[] = [
   },
   {
     id: "3",
-    title: "World Furniture Expo",
+    title: "Develor Hooks",
     description: "In four days, converted the entire website from a WordPress theme to Next.js and Tailwind CSS, achieving performance, accessibility, and SEO scores above 88%. Reduced load time from 13 seconds to 3 seconds.",
     tags: ["Next", "Redux", "Tailwind", "React Hook Form"],
     image: "https://picsum.photos/800/600?random=3",
